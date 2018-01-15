@@ -29,3 +29,6 @@ MATLAB/toy_data.mat filter=lfs diff=lfs merge=lfs -text
 R/CinC_ECG_torso_data.RData filter=lfs diff=lfs merge=lfs -text
 R/ECG200_data.RData filter=lfs diff=lfs merge=lfs -text
 R/ECGFiveDays_data.RData filter=lfs diff=lfs merge=lfs -text
+R/gaitndd_data.RData filter=lfs diff=lfs merge=lfs -text
+R/TwoLeadECG_data.RData filter=lfs diff=lfs merge=lfs -text
+R/GaitParkinsons_data.RData filter=lfs diff=lfs merge=lfs -text
