@@ -26,3 +26,6 @@ MATLAB/simu_data_class_5bump.mat filter=lfs diff=lfs merge=lfs -text
 MATLAB/simu_data_class_xonly2.mat filter=lfs diff=lfs merge=lfs -text
 MATLAB/sonar.mat filter=lfs diff=lfs merge=lfs -text
 MATLAB/toy_data.mat filter=lfs diff=lfs merge=lfs -text
+R/CinC_ECG_torso_data.RData filter=lfs diff=lfs merge=lfs -text
+R/ECG200_data.RData filter=lfs diff=lfs merge=lfs -text
+R/ECGFiveDays_data.RData filter=lfs diff=lfs merge=lfs -text
